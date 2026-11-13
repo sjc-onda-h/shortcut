@@ -1,0 +1,6 @@
+{
+  "name": "status-panel",
+  "version": "0.1.0",
+  "description": "入力欄の下に、モード・モデル・ブランチ・PR・セッション・キャッシュと使用量の 3 つの輪をまとめた枠を描く",
+  "types": "./types/index.d.ts"
+}
